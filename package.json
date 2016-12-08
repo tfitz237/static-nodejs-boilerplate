@@ -1,0 +1,28 @@
+{
+  "name": "static-nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "a quick static site with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfitz237/static-nodejs-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "static",
+    "boilerplate"
+  ],
+  "author": "Tom Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfitz237/static-nodejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tfitz237/static-nodejs-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
